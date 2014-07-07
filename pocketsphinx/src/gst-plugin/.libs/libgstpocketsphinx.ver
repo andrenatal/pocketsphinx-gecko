@@ -1,0 +1,5 @@
+{ global:
+gst_plugin_desc;
+gst_pocketsphinx_get_type;
+gst_vader_get_type;
+local: *; };
